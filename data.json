@@ -3,7 +3,7 @@
         {
             "id":1,
             "name": "pTron Bassbuds",
-            "price":1800,
+            "price": 1800, 
             "quantity":25,
             "image":"https://ptron.in/cdn/shop/files/ACCGMFNWKUYYF3HB_00_637x.jpg?v=1687933842",
             "description":"pTron Bassbuds Air In-Ear TWS Earbuds with 13mm Driver for Immersive Sound, 32Hrs Playtime, Bluetooth V5.1"
@@ -19,7 +19,7 @@
         {
             "id":3,
             "name": "Noise Air Buds",
-            "price":89.99,
+            "price": 8759,
             "quantity":25,
             "image":"https://www.gonoise.com/cdn/shop/products/4_17d8c458-1406-460b-b8d9-671f5f092eda.png?v=1627585352",
             "description":"You can use these Noise earbuds to enjoy music or handle calls. The ergonomic design of each earbud facilitates comfortable usage."
@@ -27,7 +27,7 @@
         {
             "id":4,
             "name": "boAt Airdopes 131",
-            "price":89.99,
+            "price":8999,
             "quantity":25,
             "image":"https://www.boat-lifestyle.com/cdn/shop/products/c2386af9-4349-432f-8ba5-2b6aa06025c8_600x.png?v=1668756103",
             "description":"Wireless Earbuds with upto 60 Hours Playback, 13mm Drivers, IWP Technology, 650mAh Charging Case"
@@ -35,7 +35,7 @@
         {
             "id":5,
             "name": "Buds VS102 Pro",
-            "price":89.99,
+            "price":2399,
             "quantity":25,
             "image":"https://www.gonoise.com/cdn/shop/files/4_copy_8995b202-72c9-4202-890d-60a6ef79b949.webp?v=1720443495",
             "description":"Quad Mic ANC, 70 Hour Playtime, Ultra Low Latency for Gaming, Quad Mic Calling, Instacharge"
@@ -43,23 +43,23 @@
         {
             "id":6,
             "name": "Noise Buds",
-            "price":89.99,
+            "price": 8989,
             "quantity":25,
             "image":"https://5.imimg.com/data5/ANDROID/Default/2024/4/412922503/WH/QH/AJ/164155879/product-500x500.jpg",
             "description":"Bluetooth Wireless Earbuds with Crystal Bionic Sound"
         },
         {
             "id":7,
-            "name": "Noise Buds",
-            "price":89.99,
+            "name": "Wrist watch",
+            "price": 1400,
             "quantity":25,
-            "image":"https://5.imimg.com/data5/ANDROID/Default/2024/4/412922503/WH/QH/AJ/164155879/product-500x500.jpg",
-            "description":"Bluetooth Wireless Earbuds with Crystal Bionic Sound"
+            "image":"https://img3.exportersindia.com/product_images/bc-small/2021/2/8492199/police-casual-mens-wrist-watch-1612507527-5714597.jpeg",
+            "description":"Police Casual Mens Wrist Watch, Display Type : Analog "
         },
         {
             "id":8,
             "name": "Noise Buds",
-            "price":89.99,
+            "price":6745,
             "quantity":25,
             "image":"https://5.imimg.com/data5/ANDROID/Default/2024/4/412922503/WH/QH/AJ/164155879/product-500x500.jpg",
             "description":"Bluetooth Wireless Earbuds with Crystal Bionic Sound"
@@ -67,7 +67,7 @@
         {
             "id":9,
             "name": "Noise Buds",
-            "price":89.99,
+            "price":2198,
             "quantity":25,
             "image":"https://5.imimg.com/data5/ANDROID/Default/2024/4/412922503/WH/QH/AJ/164155879/product-500x500.jpg",
             "description":"Bluetooth Wireless Earbuds with Crystal Bionic Sound"
@@ -75,7 +75,7 @@
         {
             "id":10,
             "name": "Noise Buds",
-            "price":89.99,
+            "price":8098,
             "quantity":25,
             "image":"https://5.imimg.com/data5/ANDROID/Default/2024/4/412922503/WH/QH/AJ/164155879/product-500x500.jpg",
             "description":"Bluetooth Wireless Earbuds with Crystal Bionic Sound"
@@ -83,7 +83,7 @@
         {
             "id":11,
             "name": "Noise Buds",
-            "price":89.99,
+            "price":1399,
             "quantity":25,
             "image":"https://5.imimg.com/data5/ANDROID/Default/2024/4/412922503/WH/QH/AJ/164155879/product-500x500.jpg",
             "description":"Bluetooth Wireless Earbuds with Crystal Bionic Sound"
@@ -91,7 +91,7 @@
         {
             "id":12,
             "name": "Noise Buds",
-            "price":89.99,
+            "price": 5699,
             "quantity":25,
             "image":"https://5.imimg.com/data5/ANDROID/Default/2024/4/412922503/WH/QH/AJ/164155879/product-500x500.jpg",
             "description":"Bluetooth Wireless Earbuds with Crystal Bionic Sound"
